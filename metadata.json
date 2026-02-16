@@ -1,0 +1,7 @@
+{
+  "name": "SuperMas - Premium Pizza & Grill",
+  "description": "A high-performance, animated ordering system for SuperMas, featuring a modern pizza-themed UI and seamless cart management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
